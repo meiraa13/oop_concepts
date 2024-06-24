@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|c:\\users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|solutionrelative:employee_oop_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\Program.cs",
+              "RelativeDocumentMoniker": "employee_oop_csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\Program.cs",
+              "RelativeToolTip": "employee_oop_csharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:44:47.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
