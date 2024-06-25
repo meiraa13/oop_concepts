@@ -30,4 +30,18 @@ public class EmployeeService {
         }
 
     }
+
+    public void removeEmployeeByName(List<Employee> employees, String name) {
+        employees.removeIf(e -> e.getName().equalsIgnoreCase(name) );
+    }
+
+    public void increaseSalary(List<Employee> employees, BigDecimal percentage) {
+        for (Employee employee: employees){
+            BigDecimal currentSalary = employee.getSalary();
+            BigDecimal raise = currentSalary.multiply(percentage);
+            BigDecimal newSalary = currentSalary.add(raise);
+            employee.setSalary(newSalary);
+        }
+
+    }
 }
