@@ -20,8 +20,14 @@ public class Main {
         main.employeeController.readEmployees();
         //3.4
         main.employeeController.increaseSalary(new BigDecimal("0.10"));
-
-
+        //3.5
+        var employeeMap = main.employeeController.groupByJob();
+        //3.6
+        System.out.println("--------------------3.6--------------------");
+        main.employeeController.readEmployeesByGroup(employeeMap);
+        //3.8
+        System.out.println("--------------------3.8--------------------");
+        main.employeeController.readEmployeeByMonth(10,12);
 
     }
 
