@@ -5,7 +5,10 @@ import domain.Employee;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.Month;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class EmployeeService {
 
@@ -43,5 +46,40 @@ public class EmployeeService {
             employee.setSalary(newSalary);
         }
 
+    }
+
+    public Map<String, List<Employee>> groupByJob(List<Employee> employees) {
+        Map<String, List<Employee>> employeesMap = new HashMap<>();
+
+        for(Employee employee: employees){
+            String job = employee.getJob();
+            List<Employee> list = employeesMap.get(job);
+            if(list == null ){
+                list = new ArrayList<>();
+                employeesMap.put(job, list);
+            }
+            list.add(employee);
+        }
+        return employeesMap;
+    }
+
+    public void readEmployeeByGroup(Map<String, List<Employee>> employeeMap) {
+        for (Map.Entry<String, List<Employee>> entry: employeeMap.entrySet()){
+            System.out.println("Função " + entry.getKey());
+            for(Employee employee: entry.getValue()){
+                System.out.println(employee);
+            }
+        }
+    }
+
+    public void readEmployeeByMonth(int[] months, List<Employee> employees) {
+        for(Employee employee: employees){
+            int birthMonth = employee.getBirthDate().getMonthValue();
+            for (int month: months){
+                if (birthMonth == month){
+                    System.out.println(employee);
+                }
+            }
+        }
     }
 }
