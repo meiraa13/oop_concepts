@@ -44,4 +44,12 @@ public class EmployeeController {
     public void readEmployeeByMonth(int... months){
         this.employeeService.readEmployeeByMonth(months, employees);
     }
+
+    public void findOldestEmployee(){
+        this.employeeService.findOldestEmployee(employees);
+    }
+
+    public void readOrderedEmployee(){
+        this.employeeService.readOrderedEmployee(employees);
+    }
 }

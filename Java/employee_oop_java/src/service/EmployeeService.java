@@ -5,10 +5,7 @@ import domain.Employee;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.time.Month;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class EmployeeService {
 
@@ -80,6 +77,28 @@ public class EmployeeService {
                     System.out.println(employee);
                 }
             }
+        }
+    }
+
+    public void findOldestEmployee(List<Employee> employees) {
+        Employee oldest = null;
+        LocalDate oldestDate = LocalDate.now();
+
+        for (Employee employee: employees){
+            LocalDate birthDate = employee.getBirthDate();
+            if (birthDate.isBefore(oldestDate)) {
+                oldestDate = birthDate;
+                oldest = employee;
+            }
+        }
+        System.out.println(oldest);
+    }
+
+    public void readOrderedEmployee(List<Employee> employees) {
+        employees.sort(Comparator.comparing(Employee::getName));
+
+        for(Employee employee: employees){
+            System.out.println(employee);
         }
     }
 }
