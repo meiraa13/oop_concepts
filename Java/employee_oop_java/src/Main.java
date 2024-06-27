@@ -28,6 +28,13 @@ public class Main {
         //3.8
         System.out.println("--------------------3.8--------------------");
         main.employeeController.readEmployeeByMonth(10,12);
+        //3.9
+        System.out.println("--------------------3.9--------------------");
+        main.employeeController.findOldestEmployee();
+        //3.10
+        System.out.println("--------------------3.10--------------------");
+        main.employeeController.readOrderedEmployee();
+
 
     }
 
