@@ -3,6 +3,8 @@ package service;
 import domain.Employee;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
+import java.text.NumberFormat;
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.*;
@@ -99,6 +101,24 @@ public class EmployeeService {
 
         for(Employee employee: employees){
             System.out.println(employee);
+        }
+    }
+
+    public void calculateTotalSalary(List<Employee> employees) {
+        BigDecimal totalSalary = new BigDecimal(0);
+        for (Employee employee: employees){
+            totalSalary = totalSalary.add(employee.getSalary());
+        }
+        NumberFormat numberFormat = NumberFormat.getInstance(new Locale("pt","BR"));
+        System.out.println(numberFormat.format(totalSalary));
+    }
+
+    public void calculateMinimumWage(List<Employee> employees) {
+        BigDecimal minimumWage = new BigDecimal("1212.00");
+
+        for(Employee employee: employees){
+            BigDecimal minimumWages = employee.getSalary().divide(minimumWage,2, RoundingMode.UP);
+            System.out.println(employee.getName() + ": " + minimumWages + " salários minimos");
         }
     }
 }
