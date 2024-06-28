@@ -34,6 +34,12 @@ public class Main {
         //3.10
         System.out.println("--------------------3.10--------------------");
         main.employeeController.readOrderedEmployee();
+        //3.11
+        System.out.println("--------------------3.11--------------------");
+        main.employeeController.calculateTotalSalary();
+        //3.12
+        System.out.println("--------------------3.12--------------------");
+        main.employeeController.calculateMinimumWage();
 
 
     }

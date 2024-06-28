@@ -52,4 +52,12 @@ public class EmployeeController {
     public void readOrderedEmployee(){
         this.employeeService.readOrderedEmployee(employees);
     }
+
+    public void calculateTotalSalary(){
+        this.employeeService.calculateTotalSalary(employees);
+    }
+
+    public void calculateMinimumWage(){
+        this.employeeService.calculateMinimumWage(employees);
+    }
 }
