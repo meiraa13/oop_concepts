@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\employee_oop_csharp.csproj",
+      "projectUniqueName": "C:\\Users\\meire\\Desktop\\Programação\\Repositórios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\employee_oop_csharp.csproj",
       "projectName": "employee_oop_csharp",
-      "projectPath": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\employee_oop_csharp.csproj",
+      "projectPath": "C:\\Users\\meire\\Desktop\\Programação\\Repositórios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\employee_oop_csharp.csproj",
       "packagesPath": "C:\\Users\\meire\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\obj\\",
+      "outputPath": "C:\\Users\\meire\\Desktop\\Programação\\Repositórios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meire\\AppData\\Roaming\\NuGet\\NuGet.Config",

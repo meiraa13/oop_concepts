@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|c:\\users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|c:\\users\\meire\\desktop\\programa\u00E7\u00E3o\\reposit\u00F3rios\\oop_concepts\\c#\\employee_oop_csharp\\employee_oop_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|solutionrelative:employee_oop_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|c:\\users\\meire\\desktop\\programa\u00E7\u00E3o\\reposit\u00F3rios\\oop_concepts\\c#\\employee_oop_csharp\\employee_oop_csharp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|solutionrelative:employee_oop_csharp\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|c:\\users\\meire\\desktop\\programa\u00E7\u00E3o\\reposit\u00F3rios\\oop_concepts\\c#\\employee_oop_csharp\\employee_oop_csharp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|solutionrelative:employee_oop_csharp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|c:\\users\\meire\\desktop\\programa\u00E7\u00E3o\\reposit\u00F3rios\\oop_concepts\\c#\\employee_oop_csharp\\employee_oop_csharp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D33D18B-8D8B-4DE0-85C1-AD7D7970D47C}|employee_oop_csharp\\employee_oop_csharp.csproj|solutionrelative:employee_oop_csharp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "employee_oop_csharp\\services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\services\\EmployeeService.cs",
+              "RelativeToolTip": "employee_oop_csharp\\services\\EmployeeService.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwF4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:06:24.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "employee_oop_csharp\\models\\Employee.cs",
+              "ToolTip": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\models\\Employee.cs",
+              "RelativeToolTip": "employee_oop_csharp\\models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:04:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\models\\Person.cs",
+              "RelativeDocumentMoniker": "employee_oop_csharp\\models\\Person.cs",
+              "ToolTip": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\models\\Person.cs",
+              "RelativeToolTip": "employee_oop_csharp\\models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T22:03:26.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\Program.cs",
               "RelativeDocumentMoniker": "employee_oop_csharp\\Program.cs",
-              "ToolTip": "C:\\Users\\meire\\source\\repos\\employee_oop_csharp\\employee_oop_csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\meire\\Desktop\\Programa\u00E7\u00E3o\\Reposit\u00F3rios\\oop_concepts\\C#\\employee_oop_csharp\\employee_oop_csharp\\Program.cs",
               "RelativeToolTip": "employee_oop_csharp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-24T20:44:47.855Z",
               "EditorCaption": ""

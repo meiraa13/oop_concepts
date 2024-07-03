@@ -1,0 +1,15 @@
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\bin\Debug\net8.0\employee_oop_csharp.exe
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\bin\Debug\net8.0\employee_oop_csharp.deps.json
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\bin\Debug\net8.0\employee_oop_csharp.runtimeconfig.json
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\bin\Debug\net8.0\employee_oop_csharp.dll
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\bin\Debug\net8.0\employee_oop_csharp.pdb
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.AssemblyInfoInputs.cache
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.AssemblyInfo.cs
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.csproj.CoreCompileInputs.cache
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.sourcelink.json
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.dll
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\refint\employee_oop_csharp.dll
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.pdb
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\employee_oop_csharp.genruntimeconfig.cache
+C:\Users\meire\Desktop\Programação\Repositórios\oop_concepts\C#\employee_oop_csharp\employee_oop_csharp\obj\Debug\net8.0\ref\employee_oop_csharp.dll
